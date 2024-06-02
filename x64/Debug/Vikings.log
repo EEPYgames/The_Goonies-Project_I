@@ -1,0 +1,27 @@
+﻿  AABB.cpp
+  Entity.cpp
+  Game.cpp
+  Globals.cpp
+  main.cpp
+  Object.cpp
+  Particle.cpp
+  ParticleManager.cpp
+  Player.cpp
+C:\Users\javip\Documents\TheGoonies\src\Player.cpp(313,16): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\javip\Documents\TheGoonies\src\Player.cpp(647,6): warning C4101: 'i': variable local sin referencia
+  RenderComponent.cpp
+  ResourceManager.cpp
+  Scene.cpp
+C:\Users\javip\Documents\TheGoonies\src\Scene.cpp(756,28): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\javip\Documents\TheGoonies\src\Scene.cpp(771,28): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\javip\Documents\TheGoonies\src\Scene.cpp(786,44): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Shot.cpp
+  ShotManager.cpp
+  Sprite.cpp
+  StaticImage.cpp
+  Text.cpp
+  TileMap.cpp
+  Generando código...
+C:\Users\javip\Documents\TheGoonies\src\Entity.cpp(71): warning C4715: 'Entity::GetRenderingPosition': no todas las rutas de acceso de control devuelven un valor
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  Vikings.vcxproj -> C:\Users\javip\Documents\TheGoonies\x64\Debug\Vikings.exe
